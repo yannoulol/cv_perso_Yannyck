@@ -1,0 +1,56 @@
+h1 {
+  color:white;
+  border:10px solid green;
+  background-color:red;
+  text-align: center;
+font-family: "Sigmar One", cursive;
+ }
+
+body {
+   background-color: #CCCCCC;
+   background-image: url(http://orig02.deviantart.net/b6ce/f/2010/179/b/7/viper_city_background_2_by_rcu49p9gz.jpg);
+background-size: cover;
+font-family: "Shojumaru", cursive;
+  }
+
+
+  .g { font-weight: monospace;
+          color:orange
+                       }
+.t { font-weight: monospace;
+         color: green
+                     }
+.e {font-weight: monospace;
+            color:orange
+                          }
+.s {font-weight: monospace;
+              color:red
+                        }
+
+
+
+
+
+
+
+
+ div{
+  width:780px;
+  margin:auto;
+  border:5px solid #174460;
+  border-radius:10px;
+  box-shadou:2px 4px 3px black;
+  background-color:#ffffff;
+  padding:40px;
+ }
+
+ h2 {
+   color:white;
+   border:10px solid green;
+   background-color:red;
+   text-align: center;
+  }
+
+h3, h4 {
+  text-align: center;
+}
